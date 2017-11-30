@@ -1,0 +1,17 @@
+{
+  "name": "mongoose-example",
+  "version": "1.0.0",
+  "description": "First Mongoose example",
+  "main": "getting-started.js",
+  "scripts": {
+    "dev": "nodemon getting-started.js"
+  },
+  "author": "Annette Arrigucci",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.10.8"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
